@@ -1,0 +1,22 @@
+id: AB98B9797
+title: Toh_127-The_King_of_Samadhis_Sutra-v1
+type: translation
+pechas:
+- I8BD84FFF
+- I638A9606
+source_metadata:
+  creationtool: 84000-translation-memory
+  creationtoolversion: 1.0.0.0
+  datatype: PlainText
+  segtype: phrase
+  adminlang: en
+  srclang: bo
+  o-tmf: TEI
+  creationdate: '2018-03-26T16:03:30.805Z'
+  creationid: celso
+  eft-text-id: UT22084-055-001
+  xmlns-eft: http://read.84000.co/ns/1.0
+  title: Toh_127-The_King_of_Samadhis_Sutra-v1
+alignment_to_base:
+  I8BD84FFF/E80D: F8DB
+  I638A9606/1997: F8DB
